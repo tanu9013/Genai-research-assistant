@@ -2,3 +2,6 @@ streamlit
 openai
 pdfplumber
 tiktoken
+langchain-text-splitters
+langchain
+langchain-community
