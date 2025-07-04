@@ -5,7 +5,9 @@ This repository contains three powerful versions of a Streamlit-based summarizat
 Each version is tailored for different use cases:
 
 > OpenAI-based: For GPT-3.5/4 powered cloud summarization and Q&A
+
 > Ollama-based: For running local LLMs like Mistral or Phi-3
+
 > Offline Transformers-based: 100% open-source, lightweight, and runs fully offline
 
 // DRAWBACKS ;
